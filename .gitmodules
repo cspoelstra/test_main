@@ -1,0 +1,4 @@
+[submodule "test_sub"]
+	path = test_sub
+	url = https://github.com/cspoelstra/test_sub.git
+	branch = sub/1.0
